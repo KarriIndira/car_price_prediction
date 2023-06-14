@@ -1,1 +1,2 @@
 # Car-Price-Prediction
+Car price prediction has become an essential tool for both consumers and the automotive industry. The ability to accurately forecast car prices helps buyers make informed purchasing decisions, enables sellers to set competitive prices, and aids in understanding market trends. This description provides an overview of a comprehensive analysis and forecasting model designed to predict car prices based on various factors.so we created the web app which can predict the used cars prices.
